@@ -1,7 +1,7 @@
 # Questão 3
 # Escreva um programa que solicite repetidamente que digite um número,
 #  os números serão somados e o programa será finalizado quando digitar o número 0.
-#  Ao final o programa retorna a soma dos números inseridos.
+#  Ao final o programa retorna a soma dos números inseridos
 
 
 lista = []
