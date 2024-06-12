@@ -11,12 +11,12 @@ def main(cargo, valor):
           resultado = (valor * taxa[2])
 
       else:
-          print(-1)
+         resultado = -1
 
 
       return resultado
 
   except:
-      print(-1)
+      -1
 
-#commi
+#commit
