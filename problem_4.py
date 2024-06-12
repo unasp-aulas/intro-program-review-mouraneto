@@ -13,6 +13,8 @@ while True:
   prestacao = valor_casa / (anos_pagar * 12)
   if prestacao < salario * 0.30:
     print("Aprovado")
+    break
   else:
     print('Reprovado')
+    break
 
